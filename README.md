@@ -62,6 +62,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 --- 
 #### For more detail read my blog:
-[Customer Call Summary Medium Blog]([https://platform.openai.com/](https://sambhavm22.medium.com/customer-care-call-summarisation-6cd589015f90))
+`Medium Blog`: Read my Blog [Customer Call Summary]([https://platform.openai.com/](https://sambhavm22.medium.com/customer-care-call-summarisation-6cd589015f90).
 
 Feel free to reach out for support or improvements! 🚀
