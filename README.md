@@ -25,11 +25,13 @@ Ensure you have the following environment variables set:
    git clone https://github.com/sambhavm22/CustomerCareCallSummary.git
    cd CustomerCareCallSummary
 
-## Install the required dependencies:
-      ```bash   pip install -r requirements.txt
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-## Run the app:
-     ``` bash  streamlit run app.py
+3. Run the app:
+   ```bash
+   streamlit run app.py
   
 ## Usage
 
