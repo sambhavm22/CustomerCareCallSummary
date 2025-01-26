@@ -2,7 +2,6 @@
 
 This project provides a streamlined solution for summarizing customer care call recordings and emailing the summaries automatically. By leveraging cutting-edge AI technologies, this app performs audio transcription, summarization, and email automation seamlessly.
 
----
 
 ## Features
 
@@ -11,7 +10,6 @@ This project provides a streamlined solution for summarizing customer care call 
 - **Email Automation**: Sends summarized call information to specified email addresses via Zapier integration.
 - **User-Friendly Interface**: A simple and intuitive Streamlit-based frontend for uploading and processing files.
 
----
 
 ## Prerequisites
 
@@ -19,8 +17,6 @@ Ensure you have the following environment variables set:
 
 1. `OPENAI_API_KEY`: Get your API key from [OpenAI's API platform](https://platform.openai.com/).
 2. `ZAPIER_NLA_API_KEY`: Obtain your Zapier NLA API key from the [Zapier NLA Documentation](https://nla.zapier.com/docs/authentication/).
-
----
 
 ## Installation
 
@@ -30,12 +26,10 @@ Ensure you have the following environment variables set:
    cd CustomerCareCallSummary
 
 ## Install the required dependencies:
-     ```bash
-     pip install -r requirements.txt
+   ```pip install -r requirements.txt```
 
 ## Run the app:
-     ```bash
-     streamlit run app.py
+     ```streamlit run app.py```
   
 ## Usage
 
