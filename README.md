@@ -26,10 +26,12 @@ Ensure you have the following environment variables set:
    cd CustomerCareCallSummary
 
 ## Install the required dependencies:
-   ```pip install -r requirements.txt```
+   
+      ```pip install -r requirements.txt```
 
 ## Run the app:
-     ```streamlit run app.py```
+     
+      ```streamlit run app.py```
   
 ## Usage
 
@@ -58,3 +60,6 @@ Ensure you have the following environment variables set:
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+--- 
+
+Feel free to reach out for support or improvements! 🚀
