@@ -26,12 +26,10 @@ Ensure you have the following environment variables set:
    cd CustomerCareCallSummary
 
 ## Install the required dependencies:
-   
-      ```pip install -r requirements.txt```
+      ```bash   pip install -r requirements.txt
 
 ## Run the app:
-     
-      ```streamlit run app.py```
+     ``` bash  streamlit run app.py
   
 ## Usage
 
